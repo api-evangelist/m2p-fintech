@@ -1,0 +1,219 @@
+# M2P Fintech
+
+> M2P Fintech is Asia's largest API infrastructure company powering banking, lending, and payment solutions for fintechs, banks, NBFCs, and enterprises. Founded in 2014 and headquartered in Chennai, India, M2P operates across 30+ countries spanning Asia Pacific, MENA, NA, EU and Oceania. The platform powers 800+ fintech engagements, 200+ banks, and 300+ lenders, serving 50+ million end customers with 20+ billion transactions processed. M2P's modular, cloud-native, API-first product suite enables businesses to embed financial services — including core banking (Turing CBS), card issuance (credit, debit, prepaid, forex), UPI, cross-border payments, loan origination & management, merchant management, BNPL, microfinance, KYC (Syntizen), reconciliation (Recon360), fraud monitoring, access control, connect (orchestration platform) and neobanking — with up to 5X faster go-to-market.
+
+# Metadata
+- Generator: M2P Fintech
+- Last Updated: 2026-04-22
+- Version: 1.0
+- Scope: M2P Fintech product pages, solution pages, blog articles, and resource pages listed in this file.
+
+
+## Homepage
+
+- [M2P Fintech](https://m2pfintech.com/): M2P Fintech home page — product overview across banking, lending, and payments with API infrastructure for fintechs, banks, and enterprises.
+
+
+## Banking
+
+Core banking infrastructure and digital banking products: cloud-native core banking system (Turing), debit card issuance, neobanking platform, and banking orchestration (Connect).
+
+- [Turing (Core Banking)](https://m2pfintech.com/turing-core-banking/): Turing CBS — cloud-native, API-first core banking system with microservices architecture, low-code/no-code product capabilities, API gateway, enterprise service bus, and data migration platform. Supports co-operative banks, SFBs, payments banks, and commercial banks.
+- [Debit Cards](https://m2pfintech.com/debit-cards/): End-to-end debit card issuance platform — physical, virtual, disposable, and tokenized cards with scalable, customizable programs integrated with core banking.
+- [Neobanking](https://m2pfintech.com/neobanking/): API-powered neobanking platform — account creation, card issuance, fund transfers (IMPS/NEFT/RTGS), fixed & recurring deposits, bill payments (BBPS), spend analytics, and partner bank network.
+- [Connect](https://m2pfintech.com/connect/): Banking orchestration platform — build, connect, and launch APIs and UI workflows without writing code. Supports connectors for KYC, payments, SMS, email, and Node.js code snippets for custom logic.
+
+
+## Lending
+
+Credit products and lending infrastructure: credit card management system, BNPL, loan origination system, loan management system, microfinance suite, debt collections, credit line on UPI, and surrogate underwriting.
+
+- [Credit Cards](https://m2pfintech.com/credit-cards/): Full-stack credit card management platform — customizable physical and virtual card issuance, lifecycle management, AI-powered fraud prevention, real-time risk analytics, and compliance features for banks and program managers.
+- [BNPL (Buy Now Pay Later)](https://m2pfintech.com/buy-now-pay-later/): BNPL solution for banks, NBFCs, and fintechs — merchant onboarding, credit line issuance, lender management, no-cost EMI, deferred payments, revolving credit models, multi-channel distribution (card, UPI, wallets, NFC), and integrated collections.
+- [Loan Origination System (Finflux)](https://m2pfintech.com/loan-origination-system/): Finflux LOS — workflow-based loan origination with low-code form builders, automated underwriting, BRE (Business Rules Engine), credit assessment, document management, 50+ third-party integrations, and multi-channel lead sourcing for 15+ loan products.
+- [Loan Management System (Finflux)](https://m2pfintech.com/loan-management-system/): Finflux LMS — API-first loan management for 15+ loan products (personal, business, vehicle, gold, education, BNPL, supply chain, and more). Features flexible repayment options, DPD & NPA tracking, loan restructuring, moratoriums, credit bureau reporting, and integrated analytics.
+- [Microfinance (Finflux)](https://m2pfintech.com/micro-finance/): Microfinance lending suite — pre-configured platform for MFIs, banks, and NBFCs covering origination, group/individual onboarding, field agent app (Loanbook), digital KYC, collections (online/offline), savings modules, BRE-based risk assessment, and CXO dashboards.
+- [Debt Collections](https://m2pfintech.com/debt-collections/): Full-stack omnichannel debt collection platform — repayment analytics, collections management, and workflow automation (acquired via Origa.ai).
+- [Credit Line on UPI](https://m2pfintech.com/credit-line-on-upi/): Enable credit line access via UPI rails — allows banks and lenders to extend pre-approved credit lines accessible through UPI-based transactions.
+- [Surrogate](https://m2pfintech.com/surrogate/): Surrogate-based underwriting solution — alternative credit assessment using non-traditional data sources for thin-file or new-to-credit borrowers.
+
+
+## Payments
+
+Payment infrastructure products: prepaid cards, cross-border remittances, fleet & fuel management, UPI switch, and merchant acquiring solutions.
+
+- [Prepaid Cards](https://m2pfintech.com/prepaid-cards/): Prepaid card issuance platform — branded physical and virtual prepaid cards with Visa, Mastercard, and RuPay, white-label wallets, corporate expense cards, and gift cards.
+- [Cross-Border Payments](https://m2pfintech.com/cross-border-payments/): Cross-border remittance platform — single API integration for multiple corridors (GCC, SEA, Indian subcontinent), digital onboarding, multi-currency wallets (24 currencies), forex conversion, and partner distribution network for bank transfers, mobile wallets, MTO, and cash payouts.
+- [Fleet Drive](https://m2pfintech.com/fleet-drive/): Fleet and fuel management solution — prepaid fuel cards, driver expense management, real-time tracking, and spend controls for fleet operators and logistics companies.
+- [UPI](https://m2pfintech.com/upi/): UPI switch solution — scalable, customizable UPI infrastructure with integration for 40+ third-party app extensions via Connect platform, cloud-native microservices architecture, and comprehensive electronic fraud risk monitoring (eFRM).
+- [Merchant Acquiring Solutions](https://m2pfintech.com/merchant-acquiring-solutions/): Merchant management and acquiring platform — merchant onboarding, payment acceptance, terminal management, settlement, and reconciliation for banks and acquirers.
+
+
+## Value Added Services
+
+Ancillary products and platforms: reconciliation, KYC, access control server, fraud & AML monitoring, and rewards engine.
+
+- [Recon360](https://m2pfintech.com/recon360/): AI-powered reconciliation and settlement platform — automated payment reconciliation across multiple gateways, interchange reports, bank statements, and core banking with configurable matching rules, exception handling, dispute resolution, and dynamic reporting.
+- [KYC Suite (Syntizen)](https://m2pfintech.com/kyc-suite/): End-to-end digital KYC platform — CKYC retrieval, Aadhaar e-KYC (OTP/biometric/IRIS), Video KYC, PAN verification, AUA/KUA integration, Min-KYC, Aadhaar masking, DKYC with AI-driven forensic checks, OCR extraction, Face Match, GST validation, AML screening, and plug-and-play SDKs.
+- [ACS (Access Control Server)](https://m2pfintech.com/acs/): 3D Secure access control server for card transaction authentication — EMV 3DS compliance, risk-based authentication, and frictionless payment flows.
+- [FRM & AML](https://m2pfintech.com/frm-aml/): AI-powered fraud risk monitoring and anti-money laundering solution — real-time transaction monitoring, pattern recognition, suspicious activity detection, and regulatory compliance reporting.
+- [Rewards](https://m2pfintech.com/rewards/): Configurable rewards and loyalty engine — design and manage reward programs, cashback, points, and incentive campaigns for card and payment programs.
+
+
+## About
+
+- [Who We Are](https://m2pfintech.com/about-us/): M2P Fintech company overview — mission, vision, leadership, and global presence across 30+ countries.
+- [Our Story](https://m2pfintech.com/our-story/): M2P Fintech timeline — founded in 2014 by Madhu, Muthu, and Prabhu in Chennai. Key milestones include first prepaid BIN sponsorship, UPI/NETC/NFC capabilities, MENA expansion, Visa-ready certification, Syntizen and Origa.ai acquisitions, and $100M Series D funding from Helios Investment Partners.
+- [Careers](https://careers.m2pfintech.com/): M2P Fintech careers portal — open roles across engineering, product, business, and operations.
+- [Our Community (Tether)](https://www.tether.community): M2P's fintech community platform for networking and knowledge sharing.
+- [Workplace Safety](https://m2pfintech.com/workplace-safety/): M2P Fintech workplace safety policies and commitments.
+- [Contact Us](https://m2pfintech.com/contact-us/): Contact M2P Fintech — sales inquiries, partnerships, and support.
+- [Events](https://m2pfintech.com/m2p-events/): M2P Fintech events, conferences, and industry participation.
+
+
+## Resources
+
+- [Blog](https://m2pfintech.com/blog/): M2P Fintech blog — fintech insights, product stories, use cases, and thought leadership across banking, lending, payments, engineering, and industry trends.
+- [News](https://m2pfintech.com/news/): M2P Fintech newsroom — press releases, media coverage, and company announcements.
+- [Newsletter](https://m2pfintech.com/newsletter/): M2P Fintech newsletters — Fintalk, Lending Digest, Credit Newsletter, Payment Pulse, and The AI Vue delivered fortnightly.
+- [White Papers](https://m2pfintech.com/white-paper/): M2P Fintech white papers and research reports on fintech trends and solutions.
+- [Brand Assets](https://m2pfintech.com/brand-assets/): M2P Fintech logos, brand guidelines, and media resources.
+
+
+## Compliance & Legal
+
+- [Grievance](https://m2pfintech.com/grievance/): M2P Fintech grievance submission portal.
+- [Legal](https://m2pfintech.com/legal/): M2P Fintech legal terms and conditions.
+- [Privacy Policy](https://m2pfintech.com/privacy-policy/): M2P Fintech privacy policy.
+- [Cookie Policy](https://m2pfintech.com/cookie-policy/): M2P Fintech cookie policy.
+- [Grievance Redressal Policy](https://m2pfintech.com/grievance-redressal-policy/): M2P Fintech grievance redressal policy and procedures.
+- [Data Protection Schedule](https://m2pfintech.com/data-protection-schedule/): M2P Fintech data protection schedule and commitments.
+
+## Blog — - [List of all Blogs](https://m2pfintech.com/blog/): All M2P Blogs whether its Banking, Lending, Payments, Value Added Services, Engineering etc. could be find here.
+
+## Blog — Banking
+
+Articles on core banking, neobanking, digital banking transformation, and cooperative bank modernization.
+
+- [Core Banking Essentials: Types, Components & Advantages](https://m2pfintech.com/blog/core-banking-essentials-types-components-advantages/): Comprehensive overview of core banking systems — types, key components, and business advantages.
+- [7 Core Banking Modules Every Banker Needs to Know](https://m2pfintech.com/blog/7-core-banking-modules-every-banker-needs-to-know/): Deep-dive into seven essential modules of a modern core banking system.
+- [The Evolution of Core Banking: From Legacy Systems to Digital Innovation](https://m2pfintech.com/blog/future-of-core-banking-systems/): History and future of core banking — from 1970s legacy systems to cloud-native, API-first platforms.
+- [Neobanking 101: All You Need to Know](https://m2pfintech.com/blog/neo-banking-101-all-you-need-to-know/): Neobanking primer — types of neobanks, business models, and how they differ from traditional banks.
+- [Top 14 Neobanks that Reinvent Banking Experience in India](https://m2pfintech.com/blog/top-14-neo-banks-that-reinvent-banking-experience-in-india/): Overview of leading Indian neobanks and their digital banking innovations.
+- [Personalized Banking with AI: Transforming Customer Experience](https://m2pfintech.com/blog/personalized-banking-with-ai-transforming-customer-experience/): How AI is enabling hyper-personalized banking experiences and customer engagement.
+- [Green Finance Revolution: How APIs and AI Power ESG in Fintech](https://m2pfintech.com/blog/green-finance-revolution-how-apis-and-ai-power-esg-in-fintech/): Exploring the intersection of green finance, API infrastructure, and AI-driven ESG solutions.
+
+
+## Blog — Lending
+
+Articles on loan management, loan origination, BNPL, co-lending, microfinance, and digital lending trends.
+
+- [Guide for Effective Loan Management System](https://m2pfintech.com/blog/comprehensive-guide-for-effective-loan-management-system/): Comprehensive guide to LMS — supported loan types (gold, education, BNPL, supply chain, vehicle, LAP), key features, and platform selection criteria.
+- [Top 10 Loan Management Systems in India](https://m2pfintech.com/blog/top-10-loan-management-systems-in-india/): Comparison of leading loan management system providers in India with feature breakdowns.
+- [Top 10 Loan Origination Systems in India](https://m2pfintech.com/blog/top-10-loan-origination-systems-in-india/): Comparison of leading loan origination system providers in India.
+- [Top 5 Loan Origination Software Platforms in 2025](https://m2pfintech.com/blog/top-5-loan-origination-software/): Curated list of loan origination platforms with detailed feature comparison and selection guidance.
+- [Top 5 Loan Management Software Platforms in 2025](https://m2pfintech.com/blog/top-5-loan-management-software-platforms-in-2025/): Curated list of loan management platforms — Finflux by M2P, Knight Fintech, and others.
+- [The Future of Loan Management Systems: Trends 2025–2035](https://m2pfintech.com/blog/future-of-loan-management-systems-predictions-for-the-next-decade-2025-2035/): Predictions on LMS evolution — blockchain lending, open banking, AI-powered underwriting, and peer-to-peer lending.
+- [How M2P's Core Lending Suite Reinvents Loan Origination](https://m2pfintech.com/blog/how-m2ps-core-lending-suite-reinvents-loan-origination/): Product deep-dive on M2P's Core Lending Suite for modern loan origination workflows.
+- [How AI Agents Are Redefining the Lending Lifecycle](https://m2pfintech.com/blog/how-ai-agents-are-redefining-the-lending-lifecycle/): How AI agents (not just AI tools) are transforming origination, underwriting, servicing, and collections with full workflow orchestration.
+- [Implementing RBI's Co-Lending Directions 2025 Using M2P's Core Lending Suite](https://m2pfintech.com/blog/implementing-rbis-colending-directions-2025-using-m2ps-core-lending-suite/): Technical guide on implementing RBI 2025 co-lending framework — blended rate computation, KFS, escrow automation, and compliance.
+- [Co-Lending 2.0: Why India's Next Credit Decade Needs an Orchestration-First Stack](https://m2pfintech.com/blog/co-lending-2-0-why-indias-next-credit-decade-needs-an-orchestration-first-stack/): Strategic analysis of co-lending evolution and the need for orchestration-first technology platforms.
+- [Rethinking LAP in 2026: How AI-Native Platforms Are Redefining Secured Lending](https://m2pfintech.com/blog/rethinking-lap-how-ainative-platforms-are-redefining-secured-lending/): How AI-native lending platforms are transforming Loan Against Property with smart underwriting and collateral management.
+- [LAS, LAMF & Securities-Based Lending: Managing Market Risk with Intelligent Infrastructure](https://m2pfintech.com/blog/las-lamf-securities-based-lending-managing-market-risk-with-intelligent-infrastructure/): Managing market risk in Loan Against Securities and Loan Against Mutual Fund products.
+- [The Digital Blueprint for Secured Credit: Expanding Financial Access](https://m2pfintech.com/blog/the-digital-blueprint-for-secured-credit-expanding-financial-access/): How digital infrastructure is expanding access to secured credit products.
+- [How Banks Can Win the Future with Flexible Lines of Credit](https://m2pfintech.com/blog/how-banks-can-win-the-future-with-flexible-lines-of-credit/): Strategic guide for banks on deploying flexible line-of-credit products using M2P's Credit Card Stack.
+- [M2P's Core Lending Suite: The AI-Native Platform Rewriting the Rules of Lending](https://m2pfintech.com/blog/m2ps-core-lending-suite-the-ai-native-platform-thats-rewriting-the-rules-of-lending/): Product overview of M2P's AI-native lending platform capabilities.
+- [How M2P's Core Lending Suite is Transforming Field-Led Lending for MFIs with AI](https://m2pfintech.com/blog/how-m2ps-core-lending-suite-is-transforming-field-led-lending-for-mfis-with-ai/): How M2P's Loanbook and AI tools are digitizing microfinance field operations.
+- [Winning Business Models for BNPL Lenders](https://m2pfintech.com/blog/winning-business-models-for-bnpl-lenders/): Business model analysis for BNPL — merchant-driven, lender-owned, and hybrid models.
+- [Simplifying Acquisitions and Payments for BNPL Issuers](https://m2pfintech.com/blog/simplifying-acquisitions-and-payments-for-bnpl-issuers/): How BNPL issuers can streamline acquisitions and payment management.
+- [Factors and Psychology Behind the Great BNPL Allure](https://m2pfintech.com/blog/factors-and-psychology-behind-the-great-bnpl-allure/): Consumer psychology driving BNPL adoption and growth.
+- [Mitigate Credit Risks in BNPL](https://m2pfintech.com/blog/mitigate-credit-risks-in-bnpl/): Risk mitigation strategies for BNPL lenders.
+- [Focus: Rise of Co-Lending Model](https://m2pfintech.com/blog/rise-of-co-lending-model/): Overview of the co-lending model in India and its regulatory evolution.
+- [RBI's New Digital Lending Guidelines – Will it be a Game Changer?](https://m2pfintech.com/blog/rbis-new-digital-lending-guidelines/): Analysis of RBI's digital lending regulations and industry impact.
+- [Credit Underwriting - How Alternative Data Sources Help](https://m2pfintech.com/blog/credit-underwriting-how-alternative-data-sources-help/): Using alternative data for credit underwriting in thin-file and new-to-credit borrower segments.
+- [Resolving NTB Credit Card Issuance Challenges](https://m2pfintech.com/blog/resolving-ntb-credit-card-issuance-challenges/): How to solve new-to-bank credit card issuance challenges using technology.
+
+
+## Blog — Payments
+
+Articles on payment gateways, card processing, UPI, tokenization, debit cards, merchant management, and digital payment trends.
+
+- [What is a Payment Gateway and Payment Switch?](https://m2pfintech.com/blog/what-is-a-payment-gateway-and-payment-switch-understanding-the-basics-of-payments-architecture/): Payment gateway and payment switch fundamentals — definitions, architecture, and how they work together.
+- [Credit Card Processing - A Definitive Guide](https://m2pfintech.com/blog/credit-card-processing-a-definitive-guide/): End-to-end credit card processing explained — authorization, clearing, settlement, and key participants.
+- [How Does Payment Tokenization Work?](https://m2pfintech.com/blog/how-does-payment-tokenization-work/): Payment tokenization explained — how token vaults replace sensitive card data for secure transactions.
+- [Debit Card Issuance 101 - All You Need To Know](https://m2pfintech.com/blog/debit-card-issuance-101-all-you-need-to-know/): Debit card issuance process — BIN sponsorship, card personalization, network integration, and lifecycle management.
+- [Seamless Credit Card Experience with Multi-Card, Single Account Management](https://m2pfintech.com/blog/seamless-credit-card-experience-with-m2ps-multi-card-single-account-management/): M2P's multi-card single account management architecture for credit card programs.
+- [How is Wallet Discoverability on UPI Set to Transform Digital Payments?](https://m2pfintech.com/blog/how-is-wallet-discoverability-on-upi-set-to-transform-digital-payments/): Impact of UPI wallet discoverability on digital payments ecosystem.
+- [Reaching the Last Mile: M2P's Debit Card Revolution for Thrift and Rural Banks](https://m2pfintech.com/blog/reaching-the-last-mile-m2ps-debit-card-revolution-for-thrift-and-rural-banks/): How M2P's debit card stack serves thrift and rural cooperative banks.
+- [Cardless Cash Withdrawals: UPI and the Future of Seamless Banking](https://m2pfintech.com/blog/cardless-cash-withdrawals-upi-and-the-future-of-seamless-banking/): UPI-powered cardless cash withdrawal solutions and their banking implications.
+- [Intelligent Debit Card Stack: Driving Growth and Engagement for Banks](https://m2pfintech.com/blog/intelligent-debit-card-stack-driving-growth-and-engagement-for-banks/): M2P's intelligent debit card platform features and bank growth strategies.
+- [UPI Circle: Revolutionizing Financial Accessibility for All](https://m2pfintech.com/blog/upi-circle-revolutionizing-financial-accessibility-for-all/): UPI Circle explained — delegated payments and financial inclusion use cases.
+- [Everything You Need to Know about Merchant Management System](https://m2pfintech.com/blog/everything-you-need-to-know-about-merchant-management-system/): Merchant management system overview — onboarding, compliance, settlement, and analytics.
+- [How Co-brand and Co-badge Credit Cards are Redefining Digital Payments](https://m2pfintech.com/blog/how-co-brand-and-co-badge-credit-cards-are-redefining-digital-payments/): Co-brand and co-badge credit card strategies for banks and retail partners.
+- [The Co-Brand Boom: A Strategic Growth Engine for Banks](https://m2pfintech.com/blog/the-co-brand-boom-a-strategic-growth-engine-for-banks/): Why co-brand card programs are a strategic growth lever for banks.
+- [Effortless UPI Payments with On-Device Biometric Authentication](https://m2pfintech.com/blog/effortless-upi-payments-with-on-device-biometric-authentication/): On-device biometric authentication for secure and frictionless UPI payments.
+- [How M2P Enables Effortless Repayment Reversals for Credit Programs](https://m2pfintech.com/blog/how-m2p-enables-effortless-repayment-reversals-for-credit-programs/): M2P's approach to handling repayment reversals in credit card and lending programs.
+- [Why Legacy EFT Switches Are Failing Modern Banks During Peak Loads](https://m2pfintech.com/blog/why-legacy-eft-switches-are-failing-modern-banks-during-peak-loads/): Why traditional EFT switches struggle with modern transaction volumes and what banks should do.
+- [The Ultimate Guide to Access Control Servers: Securing Digital Payments](https://m2pfintech.com/blog/the-ultimate-guide-to-access-control-servers-securing-the-future-of-digital-payments/): Comprehensive guide to ACS — 3D Secure, EMV 3DS, and risk-based authentication for card payments.
+- [How India's Largest Digital Gifting Platform Scaled Merchant Management with M2P's MMS](https://m2pfintech.com/blog/how-indias-largest-digital-gifting-platform-scaled-merchant-management-with-m2ps-mms/): Case study on scaling merchant management using M2P's platform.
+- [How M2P's MMS Transformed Merchant Credit for a Leading Digital Bank](https://m2pfintech.com/blog/how-m2ps-mms-transformed-merchant-credit-for-a-leading-digital-bank/): Case study on merchant credit transformation with M2P's merchant management system.
+
+
+## Blog — Fintech & Industry
+
+Articles on fintech trends, industry predictions, AI in finance, open banking, blockchain, and emerging technologies.
+
+- [50 Popular Fintech Terms You Must Know](https://m2pfintech.com/blog/50-popular-fintech-terms-you-must-know/): Glossary of 50 essential fintech terms — from AISP to AML, tokenization to UPI.
+- [50 Fintech Buzzwords Explained](https://m2pfintech.com/blog/50-fintech-buzzwords-explained/): Updated fintech glossary covering modern industry terminology.
+- [8 Ways AI is Reinventing the Fintech Landscape](https://m2pfintech.com/blog/8-ways-ai-is-reinventing-the-fintech-landscape/): Eight AI applications transforming fintech — credit scoring, fraud detection, personalization, DeFi, and more.
+- [Top 10 Fintech Predictions for 2025](https://m2pfintech.com/blog/top-10-fintech-predictions-for-2025/): Industry predictions — embedded finance, neobanking growth, BNPL market expansion, open banking, gamification, and IoT in fintech.
+- [10 Banking and Fintech Trends That Will Redefine 2026 and Beyond](https://m2pfintech.com/blog/10-banking-and-fintech-trends-that-will-redefine-2026-and-beyond/): Ten trends shaping 2026 — agentic AI, quantum computing, tokenization, embedded finance, composable architecture, and RegTech.
+- [Central Bank Digital Currency (CBDC) 101 - A Primer](https://m2pfintech.com/blog/central-bank-digital-currency-cbdc-101-a-primer/): CBDC fundamentals — definition, types, architecture, and global adoption status.
+- [Blockchain and Fintech - Use Cases and Applications](https://m2pfintech.com/blog/blockchain-and-fintech-use-cases-and-applications/): Blockchain applications in fintech — payments, lending, identity, and trade finance.
+- [How is AI Changing the Financial Industry? Top 6 Use Cases](https://m2pfintech.com/blog/how-is-ai-changing-the-financial-industry-top-6-use-cases-in-fintech-and-banking/): AI use cases in banking and fintech — fraud detection, chatbots, risk management, and algorithmic trading.
+- [Tale of Money Transfers: From Hawala to One-Click Remittances](https://m2pfintech.com/blog/tale-of-money-transfers-from-hawala-to-one-click-remittances/): History of money transfers — from informal hawala networks to modern digital remittance platforms.
+- [8 Fintech Trends to Look Out for in 2023](https://m2pfintech.com/blog/8-fintech-trends-to-look-out-for-in-2023/): Fintech trend analysis for 2023 — embedded finance, BaaS, green fintech, and RegTech.
+- [How M2P Maps Sustainability with Finance](https://m2pfintech.com/blog/how-m2p-maps-sustainability-with-finance/): M2P's approach to sustainability and ESG in financial services.
+- [Open Banking - A Primer](https://m2pfintech.com/blog/open-banking-a-primer-2/): Open banking explained — APIs, TPPs, regulatory frameworks, and India's open banking ecosystem.
+
+
+## Blog — Value Added Services (VAS)
+
+Articles on reconciliation, KYC, fraud monitoring, and identity verification.
+
+- [Recon360: Redefining Payment Reconciliation](https://m2pfintech.com/blog/recon360-redefining-payment-reconciliation/): Deep-dive into M2P's Recon360 platform — automated reconciliation, exception handling, dispute resolution, and reporting.
+- [Mastering Ecommerce Reconciliation: A Guide to Financial Accuracy](https://m2pfintech.com/blog/mastering-ecommerce-reconciliation-a-guide-to-financial-accuracy/): Guide to e-commerce payment reconciliation — challenges, best practices, and automation.
+- [Solving Insurance Reconciliation: A Smarter, Faster, More Accurate Approach](https://m2pfintech.com/blog/solving-insurance-reconciliation-a-smarter-faster-more-accurate-approach/): How automated reconciliation solves insurance industry payment challenges.
+- [How Digital Reconciliation is Redefining Financial Operations](https://m2pfintech.com/blog/how-digital-reconciliation-is-redefining-financial-operations/): The shift from manual to digital reconciliation and its impact on financial operations.
+- [How M2P's AI-powered FRM is Transforming Fraud Detection](https://m2pfintech.com/blog/how-m2ps-ai-powered-fraud-risk-monitoring-is-transforming-fraud-detection-for-financial-institutions/): M2P's AI-powered fraud risk monitoring capabilities and use cases.
+- [Streamline Customer Identification with AUA/KUA](https://m2pfintech.com/blog/streamline-customer-identification-with-aua-and-kua/): AUA and KUA explained — Aadhaar-based authentication services for regulated entities.
+- [Aadhaar-as-a-Service (AaaS): Powering India's Digital Identity Innovation](https://m2pfintech.com/blog/aadhaar-as-a-service-powering-indias-next-wave-of-digital-identity-innovation/): How Aadhaar-as-a-Service enables scalable digital identity verification for fintechs and enterprises.
+
+
+## Blog — Engineering
+
+Technical articles on mobile development, security, architecture, and engineering practices.
+
+- [Validate Aadhaar Numbers Using the Verhoeff Algorithm in Flutter](https://m2pfintech.com/blog/validate-aadhaar-numbers-using-the-verhoeff-algorithm-in-flutter/): Technical guide on implementing Aadhaar validation using the Verhoeff algorithm in Flutter.
+- [How to Generate PDFs from HTML in iOS Using Swift UIKit](https://m2pfintech.com/blog/how-to-generate-pdfs-from-html-in-ios-using-swiftui-kit/): iOS development tutorial on HTML-to-PDF generation using Swift UIKit.
+- [Setting up SSL Pinning Using Public Key in Swift](https://m2pfintech.com/blog/setting-up-ssl-pinning-using-public-key-in-swift/): iOS security guide on implementing SSL certificate pinning in Swift.
+- [CI/CD Pipeline for iOS Build Generation Using Jenkins](https://m2pfintech.com/blog/ci-cd-pipeline-for-ios-build-generation-using-jenkins/): DevOps guide on setting up CI/CD pipelines for iOS apps with Jenkins.
+- [How to Block Android App Installation in a Rooted Device](https://m2pfintech.com/blog/how-to-block-android-app-installation-in-a-rooted-device/): Android security guide on preventing app installation on rooted devices.
+- [Unmask Face Liveness Detection by Integrating Google ML Kit into Flutter](https://m2pfintech.com/blog/unmask-the-power-of-face-liveness-detection-integrating-google-ml-kit-into-your-flutter-app/): Flutter tutorial on implementing face liveness detection using Google ML Kit.
+- [Strategies for Efficient Component Communication in Microservices Architecture](https://m2pfintech.com/blog/strategies-for-efficient-component-communication-in-microservices-architecture/): Microservices communication patterns — synchronous, asynchronous, and event-driven approaches.
+- [The Dagen H Playbook: Operational Discipline for Modern Payment Platforms](https://m2pfintech.com/blog/the-dagen-h-playbook-operational-discipline-for-modern-payment-platforms/): Lessons from Sweden's Dagen H applied to payment platform migration and operational discipline.
+- [AI-First: Powering the Next Generation of Smart Applications](https://m2pfintech.com/blog/ai-first-powering-the-next-generation-of-smart-applications/): Engineering perspective on building AI-first application architectures.
+- [Why Simplification is the Ultimate Engineering Strategy](https://m2pfintech.com/blog/why-simplification-is-the-ultimate-engineering-strategy/): Engineering philosophy on system simplification for scalability and maintainability.
+- [Rekindling Algorithmic Thinking: A Strategic Imperative for Modern Enterprises](https://m2pfintech.com/blog/rekindling-algorithmic-thinking-a-strategic-imperative-for-modern-enterprises/): How algorithmic thinking drives better engineering decisions in fintech.
+- [Algorithms and the Three Paths of Agrippa's Trilemma in Fintech](https://m2pfintech.com/blog/algorithms-and-the-three-paths-of-agrippas-trilemma-in-fintech/): Philosophical exploration of algorithmic decision-making in financial systems.
+
+
+## Blog Categories
+
+- [Banking](https://m2pfintech.com/blog/category/banking/): All banking-related blog articles.
+- [Lending](https://m2pfintech.com/blog/category/lending/): All lending-related blog articles.
+- [Payments](https://m2pfintech.com/blog/category/payments/): All payments-related blog articles.
+- [Fintech](https://m2pfintech.com/blog/category/fintech/): All fintech industry and trends articles.
+- [Engineering](https://m2pfintech.com/blog/category/engineering/): All engineering and technical articles.
+- [M2P](https://m2pfintech.com/blog/category/m2p/): Company culture, team spotlights, and M2P-specific content.
+- [VAS](https://m2pfintech.com/blog/category/vas/): All value-added services articles — reconciliation, KYC, fraud, and identity.
