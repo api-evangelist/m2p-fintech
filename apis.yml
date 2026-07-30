@@ -1,9 +1,27 @@
 aid: m2p-fintech
 name: M2P Fintech
-description: M2P Fintech is a company surfaced as a portfolio company of insight-partners and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  M2P Fintech is Asia's largest API infrastructure company, powering banking, lending, and payment
+  solutions for fintechs, banks, NBFCs, and enterprises. Founded in 2014 and headquartered in Chennai,
+  India, M2P operates across 30+ countries and processes 20+ billion transactions for 50+ million end
+  customers. Its modular, cloud-native, API-first product suite lets businesses embed financial services
+  — core banking (Turing CBS), card issuance (credit, debit, prepaid, forex), UPI, cross-border payments,
+  loan origination and management (Finflux), merchant management, BNPL, microfinance, KYC (Syntizen),
+  reconciliation (Recon360), fraud and AML monitoring, 3DS access control, and neobanking — with up to
+  5X faster go-to-market.
 url: https://raw.githubusercontent.com/api-evangelist/m2p-fintech/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://m2pfintech.com/Assets/m2p-og-logo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +30,19 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Fintech
+- Banking
+- Lending
+- Payments
+- Banking as a Service
+- Card Issuing
+- UPI
+- KYC
+- Cross-Border Payments
+- Financial Infrastructure
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +52,24 @@ maintainers:
 common:
 - type: Website
   url: https://m2pfintech.com/
+- type: DeveloperPortal
+  url: https://docs.m2pfintech.com/
+- type: Documentation
+  url: https://docs.m2pfintech.com/
+- type: Blog
+  url: https://m2pfintech.com/blog/
+- type: Support
+  url: https://m2pfintech.com/contact-us/
+- type: TermsOfService
+  url: https://m2pfintech.com/legal/
+- type: PrivacyPolicy
+  url: https://m2pfintech.com/privacy-policy/
+- type: LLMsTxt
+  url: llms/m2p-fintech-llms.txt
+- type: DomainSecurity
+  url: security/m2p-fintech-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
