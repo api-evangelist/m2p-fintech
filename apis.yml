@@ -10,6 +10,17 @@ description: >-
   reconciliation (Recon360), fraud and AML monitoring, 3DS access control, and neobanking — with up to
   5X faster go-to-market.
 url: https://raw.githubusercontent.com/api-evangelist/m2p-fintech/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
