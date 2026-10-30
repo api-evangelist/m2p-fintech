@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-M2P Fintech is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+M2P Fintech is Asia's largest API infrastructure company, powering banking, lending, and payment solutions for fintechs, banks, NBFCs, and enterprises. Founded in 2014 and headquartered in Chennai, India, M2P operates across 30+ countries and processes 20+ billion transactions for 50+ million end customers. Its modular, cloud-native, API-first product suite lets businesses embed financial services — core banking (Turing CBS), card issuance (credit, debit, prepaid, forex), UPI, cross-border payments, loan origination and management (Finflux), merchant management, BNPL, microfinance, KYC (Syntizen), reconciliation (Recon360), fraud and AML monitoring, 3DS access control, and neobanking — with up to 5X faster go-to-market.
 
-Backed by: insight-partners — https://m2pfintech.com/
+**Areas:** Company · Fintech · Banking · Lending · Payments · Banking as a Service · Card Issuing · UPI · KYC · Cross-Border Payments · Financial Infrastructure
+
+## M2P Fintech on APIs.io
+
+Everything profiled for M2P Fintech is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/m2p-fintech/](https://apis.io/providers/m2p-fintech/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [M2P Fintech Domain Security](https://apis.io/security/m2p-fintech/m2p-fintech-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://m2pfintech.com/)
+- [Documentation](https://docs.m2pfintech.com/)
+- [Support](https://m2pfintech.com/contact-us/)
+- [Blog](https://m2pfintech.com/blog/)
+- [Terms of service](https://m2pfintech.com/legal/)
+- [Privacy policy](https://m2pfintech.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 14.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.5** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/m2p-fintech/](https://apis.io/providers/m2p-fintech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for M2P Fintech: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/m2p-fintech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
